@@ -1,7 +1,8 @@
+# Simple Weather Application
 ## Table of Contents
 * [Inspiration](#inspiration)
-[Logic](#logic)
-[Usage](#usage)
+* [Logic](#logic)
+* [Usage](#usage)
 
 ## Inspiration
 

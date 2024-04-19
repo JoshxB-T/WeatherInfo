@@ -1,7 +1,7 @@
 ## Table of Contents
-*[Inspiration](#inspiration)
-*[Logic](#logic)
-*[Usage](#usage)
+[Inspiration](#inspiration)
+[Logic](#logic)
+[Usage](#usage)
 
 ## Inspiration
 

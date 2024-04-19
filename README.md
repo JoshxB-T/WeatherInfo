@@ -4,6 +4,7 @@
 * [Inspiration](#inspiration)
 * [Logic](#logic)
 * [Usage](#usage)
+* [Example of Output](#example_of_output)
 
 ## Overview
 This simple weather application allows users to enter daily weather data like the day of the week, high and low temperatures in Fahrenheit, and inches of rain. Upon termination of the program, it summarizes the entered data in a neat format.
@@ -26,7 +27,7 @@ The program follows an easy approach to gathering and storing weather data:
 3. Terminate Program:
    * Program terminates when the user enters 'n' and the weather into displays.
 
-Example of output:
+## Example of Output
 ```
  Week Day       Hi      Low     Rain
  --------     ----     ----     ----

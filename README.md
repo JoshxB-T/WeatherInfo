@@ -4,7 +4,7 @@
 * [Inspiration](#inspiration)
 * [Logic](#logic)
 * [Usage](#usage)
-* [Example of Output](#example_of_output)
+* [Example of Output](#example-of-output)
 
 ## Overview
 This simple weather application allows users to enter daily weather data like the day of the week, high and low temperatures in Fahrenheit, and inches of rain. Upon termination of the program, it summarizes the entered data in a neat format.

@@ -1,5 +1,5 @@
 ## Table of Contents
-[Inspiration](#inspiration)
+* [Inspiration](#inspiration)
 [Logic](#logic)
 [Usage](#usage)
 

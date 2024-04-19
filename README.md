@@ -27,6 +27,7 @@ The program follows an easy approach to gathering and storing weather data:
    * Program terminates when the user enters 'n' and the weather into displays.
 
 Example of output:
+```
  Week Day       Hi      Low     Rain
  --------     ----     ----     ----
    Sunday       93       23      0.1
@@ -37,3 +38,4 @@ Example of output:
 Highest reading: 93 [Sunday]
 Lowest reading: 23 [Sunday]
 Total rainfall: 0.4"
+```
